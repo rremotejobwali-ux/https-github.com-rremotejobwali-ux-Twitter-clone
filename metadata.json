@@ -1,0 +1,5 @@
+{
+  "name": "SocialStream",
+  "description": "A fully functional Twitter-like social platform featuring real-time feed updates, profile management, and AI-powered tweet generation using Gemini Flash.",
+  "requestFramePermissions": []
+}
